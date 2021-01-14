@@ -1,14 +1,5 @@
-HOT
-FEATURE
-<<<<<<< HEAD
-BUG FIX>
-=======
-FEATURE
->>>>>>> feature-branch
+FEATURE CHANGE!!!!
 MAIN
 dfs
-
-
 fd new lineQ!QQQQQ
-
 QQQQQQQQQQQQQsdfsdfsfdsfsdfQ
